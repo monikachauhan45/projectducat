@@ -1,5 +1,5 @@
 //Jenkinsfiles (Declarative Pipeline)
-pipelilne{
+pipeline{
           //Specifies that this pipelilne can run on any available agent
            agent any
          // Defines tools required (configured in Manage Jenkins > Global Tool Configuration)

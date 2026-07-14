@@ -5,7 +5,7 @@ pipelilne{
          // Defines tools required (configured in Manage Jenkins > Global Tool Configuration)
          tools{
                //Replace 'JDK-25' and 'Maven-3.8.6' with your configured names
-               jdk '25.0.2'
+               jdk 'JDK-25.0.2'
                maven 'Maven-3.8.6'
 
          }

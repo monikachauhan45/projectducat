@@ -16,7 +16,7 @@ public class LoginPage {
     WebElement loginbtn;
     @FindBy(xpath="")
     WebElement link;
-// testing
+
     public LoginPage(WebDriver driver)
     {
 
